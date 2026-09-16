@@ -1,0 +1,14 @@
+# API Keys and Secrets
+.env
+
+# Python Virtual Environment & Cache
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Heavy ML Model Weights (Wing 1)
+fine_tuned_clinical_lora/
+results/
