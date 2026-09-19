@@ -1,5 +1,5 @@
 # Clinical Triage Dashboard
-Acess here: https://clinical-triage-dashboard.onrender.com
+Access here: https://clinical-triage-dashboard.onrender.com
 
 ## Overview
 This repository contains the source code for an automated, multi modal clinical triage dashboard. The system is designed to ingest patient symptom presentations via voice or text, extract active and negated medical entities, and assign a standardized urgency score based on the Canadian Triage and Acuity Scale (CTAS). 
